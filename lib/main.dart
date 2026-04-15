@@ -1,3 +1,4 @@
+import 'package:base_tutorial_app/pages/carouselPage.dart';
 import 'package:flutter/material.dart';
 import 'package:base_tutorial_app/pages/gridViewPage.dart';
 import 'package:base_tutorial_app/pages/listViewPage.dart';
@@ -32,7 +33,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+ 
 
   void _incrementCounter() {
     setState(() {
@@ -80,9 +81,16 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
               },
             ),
-            const ListTile(
+        ListTile(
               leading: Icon(Icons.recent_actors),
               title: Text('CauroselPage'),
+              onTap: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(builder: (context) => const CarouselPage()),
+                );
+              },
+
             ),
             ListTile(
               leading: const Icon(Icons.book_online),

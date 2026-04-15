@@ -22,9 +22,9 @@ The app includes commonly used UI structures such as GridView, ListView, and a m
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/grid.png" width="20%" />
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/grid.png" width="225%" />
   <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/list.png" width="25%" />
-  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/discover.png" width="35%" />
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/discover.png" width="25%" />
 </p>
 
 > Note: Make sure to add these images to your repository under the `assets/` folder and update file names if necessary.

@@ -1,16 +1,52 @@
-# base_tutorial_app
+# 📱 Base Tutorial App
 
-A new Flutter project.
+This project is a Flutter-based sample application designed to demonstrate and practice fundamental UI components.
 
-## Getting Started
+It also serves as a **starter template for quickly building and publishing tutorial-style applications**, helping developers speed up their workflow.
 
-This project is a starting point for a Flutter application.
+The app includes commonly used UI structures such as GridView, ListView, and a modern Discover screen. It is simple, clean, and beginner-friendly.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔲 GridView implementation (card-based layout)
+- 📋 ListView for structured lists
+- 🎨 Modern and clean UI design
+- 📱 Responsive layout
+- ⚡ Ready-to-use base structure for fast development
+- 🌈 Gradient backgrounds and styled cards
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/grid.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/list.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/discover.png" width="30%" />
+</p>
+
+> Note: Make sure to add these images to your repository under the `assets/` folder and update file names if necessary.
+
+---
+
+## 🧱 Built With
+
+- **GridView**
+- **ListView**
+- **Card Widget**
+- **Navigation (Routing between pages)**
+- **Custom UI Components**
+
+---
+
+## 🛠️ Installation
+
+To run this project:
+
+```bash
+git clone https://github.com/cansuengineer/base_tutorial_app.git
+cd base_tutorial_app
+flutter pub get
+flutter run

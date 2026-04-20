@@ -1,4 +1,5 @@
 import 'package:base_tutorial_app/pages/carouselPage.dart';
+import 'package:base_tutorial_app/pages/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:base_tutorial_app/pages/gridViewPage.dart';
 import 'package:base_tutorial_app/pages/listViewPage.dart';
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Tutorial App'),
+  home: const SplashScreen(),
     );
   }
 }

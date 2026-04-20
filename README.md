@@ -23,7 +23,7 @@ The app includes commonly used UI structures such as GridView, ListView, and a m
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/grid.png" width="22%" style="margin: 0 22px;"   &nbsp;&nbsp; />
-  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/list.png" width="25%" style="margin: 0 22px;"   &nbsp;&nbsp;/>
+  <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/list.png" width="22%" style="margin: 0 22px;"   &nbsp;&nbsp;/>
   <img src="https://raw.githubusercontent.com/cansuengineer/base_tutorial_app/main/assets/discover.png" width="25%"  style="margin: 0 22px;"  &nbsp;&nbsp;/>
 </p>
 
